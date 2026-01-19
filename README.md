@@ -22,6 +22,15 @@ This is a DIY project to develop the MFU filament management unit that helps upg
 
 - Facebook Group: [MFU Support](https://www.facebook.com/share/g/17svbKkSMG/)
 
+### License
+
+✅ Personal use: Free to use  
+❌ Commercial use: Please contact me first at **khomon3d@gmail.com**
+
+### Donate
+
+If you find this project useful, you can support me via ☕ [buymeacoffee.com/khomon3d](https://buymeacoffee.com/khomon3d)
+
 ---
 
 ## Tiếng Việt
@@ -41,3 +50,12 @@ This is a DIY project to develop the MFU filament management unit that helps upg
 ### Hỗ Trợ
 
 - Group Facebook: [MFU Support](https://www.facebook.com/share/g/17svbKkSMG/)
+
+### Giấy Phép
+
+✅ Sử dụng cá nhân: Miễn phí  
+❌ Sử dụng thương mại: Vui lòng liên hệ tôi trước qua **khomon3d@gmail.com**
+
+### Ủng Hộ
+
+Nếu bạn cảm thấy dự án này hữu ích, có thể ủng hộ tôi qua ☕ [buymeacoffee.com/khomon3d](https://buymeacoffee.com/khomon3d)
