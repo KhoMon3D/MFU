@@ -4,6 +4,12 @@
 
 This project was designed using **EasyEDA** software. I am not a professional PCB expert, so feel free to review and modify the layout as needed to suit your requirements.
 
+The .eprj-file is a "pro"-version file.
+The pro-version of EasyEDA can be downloaded for free on their website, but it has to be activated before usage.
+The activation file "desktop-client-activation.txt" can be found in their "Other Downloads" section and is generally free to download, too. LogIn required.
+
+After installing the pro-version and activating it, the .eprj-file can be opened in "File(F)" -> "Open Project (O)..."
+
 **License:**  
 ✅ Personal use: Free to use  
 ❌ Commercial use: Please contact me first at **khomon3d@gmail.com**
